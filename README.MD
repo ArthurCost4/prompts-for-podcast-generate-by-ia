@@ -23,7 +23,7 @@ ca<p align="center">
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/ElevenLabs_2024-05-18T13_11_51_Rachel_pre_s50_sb75_se0_b_m2.mp3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
